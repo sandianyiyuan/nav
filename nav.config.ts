@@ -14,6 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
+  
   homeUrl: 'http://sandianyiyuan.github.io/nav',
 
   // 网站标题
